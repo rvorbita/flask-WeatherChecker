@@ -1,0 +1,11 @@
+h1 {
+    padding: 1em;
+    color: blue;
+}
+
+div.weather-info {
+    padding-top: 100px;
+}
+
+
+/* bootstrap */
