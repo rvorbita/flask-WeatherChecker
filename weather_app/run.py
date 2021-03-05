@@ -14,7 +14,7 @@ if __name__ == "__main__":
 
 # BASE_URL="https://api.openweathermap.org/data/2.5/weather?"
 
-# API_KEY="125586a42d0bd62391a4b2c4b3c59057"
+# API_KEY="GET YOUR OWN API KEY"
 # CITY="Manila"
 
 # URL=BASE_URL + "q=" + CITY + "&appid=" + API_KEY
